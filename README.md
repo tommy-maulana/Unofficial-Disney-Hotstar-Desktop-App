@@ -8,7 +8,7 @@ Download our latest release and you're off to the races!
 
 | Windows | macOS | GNU/Linux (64-bit only) |
 | -- | -- | -- |
-| [Download](https://s.id/HotstarWindows) | [Download](https://s.id/HotstarMacOS) | [Soon](#) |
+| [Download](https://s.id/HotstarWindows) | [Download](https://s.id/HotstarMacOS) | [Download](https://drive.google.com/file/d/18az52g8_eXAB5um2kJTaBnBv14Mw24he/view?usp=sharing) |
 
 
 
