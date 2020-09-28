@@ -14,6 +14,8 @@ Download our latest release and you're off to the races!
 
 ## Development Guide
 
+If you want to hack on this project, here is how you do it.
+<details><summary>Show building instructions</summary>
 ### Setup
 
 First, clone the project:
