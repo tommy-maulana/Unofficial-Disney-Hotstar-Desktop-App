@@ -27,7 +27,7 @@ Then, install Nativefier globally with ```npm install -g nativefier```
 and then run this project:
 
 ```bash
-nativefier --name 'Disney+ Hotstar ID' ‘hotstar.com/id’
+nativefier --name 'Disney+ Hotstar Indonesia' 'hotstar.com/id'
 ```
 
 ## License
