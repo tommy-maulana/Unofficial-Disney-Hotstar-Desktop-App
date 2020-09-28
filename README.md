@@ -7,9 +7,9 @@
 First, clone the project:
 
 ```bash
-git clone https://github.com/tommy-maulana/Disney-Hotstar-For-Desktop-Unofficial-.git
+git clone https://github.com/tommy-maulana/Unofficial-Disney-Hotstar-Desktop-App.git
 
-cd Disney-Hotstar-For-Desktop-Unofficial-
+cd Unofficial-Disney-Hotstar-Desktop-App
 ```
 
 Install dependencies for both the CLI and the Electron app:
