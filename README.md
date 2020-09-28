@@ -15,7 +15,7 @@ Download our latest release and you're off to the races!
 ## Development Guide
 
 If you want to hack on this project, here is how you do it.
-<details><summary>Show building instructions</summary>
+<details><summary>Show instructions</summary>
 ### Setup
 
 First, clone the project:
@@ -43,6 +43,7 @@ and then run this project:
 ```bash
 nativefier --name 'Disney+ Hotstar Indonesia' 'hotstar.com/id'
 ```
+</details>
 
 ## License
 
