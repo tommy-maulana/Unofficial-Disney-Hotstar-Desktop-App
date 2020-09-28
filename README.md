@@ -8,7 +8,7 @@ Download our latest release and you're off to the races!
 
 | Windows | macOS | GNU/Linux (64-bit only) |
 | -- | -- | -- |
-| [Download](#) | [Download](#) | [Download](#) |
+| [Download](#) | [Download](https://drive.google.com/file/d/1jEEBusTJAaasnVA2ZVoDupGVCVaNZbeD/view?usp=sharing) | [Download](#) |
 
 
 
