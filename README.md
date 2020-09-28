@@ -2,7 +2,7 @@
 
 ![](screenshot.png)
 
-## Installation
+## Installation For Your Desktop
 
 Download our latest release and you're off to the races!
 
