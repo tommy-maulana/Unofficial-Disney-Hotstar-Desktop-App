@@ -1,3 +1,9 @@
+<p align="center">
+    <a href="https://getferdi.com">
+      <img src="./img/logo.png" alt="" width="250"/>
+    </a>
+</p>
+
 # [Unofficial] Disney+ Hotstar Indonesia Desktop App
 
 ![](screenshot.png)
