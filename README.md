@@ -6,9 +6,7 @@
 
 # [Unofficial] Disney+ Hotstar Indonesia Desktop App
 
-<details><summary>Screenshot</summary>
 ![](screenshot.png)
-</details>
 
 ## Installation For Your Desktop
 
