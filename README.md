@@ -1,10 +1,12 @@
 <p align="center">
-    <a href="https://getferdi.com">
+    <a href="https://hotstar.com/id">
       <img src="./img/logo.png" alt="" width="250"/>
     </a>
 </p>
 
-# [Unofficial] Disney+ Hotstar Indonesia Desktop App
+<p align="center">
+    [Unofficial] Disney+ Hotstar Indonesia Desktop App
+</p>
 
 ![](screenshot.png)
 
